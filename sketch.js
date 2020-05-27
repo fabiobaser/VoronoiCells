@@ -8,7 +8,7 @@ const { clipPolylinesToBox, getBounds } = require("canvas-sketch-util/geometry")
 const random = require("canvas-sketch-util/random")
 const _ = require("lodash")
 
-import Voronoi from "./voronoi.js"
+import Voronoi from "./lib/voronoi.js"
 
 // You can force a specific seed by replacing this with a string value
 const defaultSeed = ""
