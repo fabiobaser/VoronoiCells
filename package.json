@@ -12,6 +12,6 @@
   "dependencies": {
     "canvas-sketch": "^0.7.3",
     "canvas-sketch-util": "^1.10.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
